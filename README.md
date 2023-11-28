@@ -2,9 +2,9 @@
 
 My name is Matheus and I'm a software developer starting my career. 
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, but i build some things in C#, HTML CSS and JavaScript.
 
-- 💻 My interests in tech are: backend development and data science.
+- 💻 My interests in tech are: web development (mainly backend) and cybersecurity.
 
 - 🔭 I'm very curious about how things work and how to build things on my own.
 
