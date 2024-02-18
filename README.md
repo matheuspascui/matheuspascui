@@ -8,7 +8,7 @@ My name is Matheus and I'm a Full Stack Software Developer starting my career.
 
 - 🔭 I'm very curious about how things work and how to build things on my own.
 
-- 📫 How to reach me: [Link to my LinkedIn](https://www.linkedin.com/in/matheus-ziantoni-pascui/)
+- 📫 How to reach me: [Link to my LinkedIn](https://www.linkedin.com/in/matheus-ziantoni-pascui/) or, if you want, simply [email me](mailto:matheuspascui@gmail.com)
 
 - ⚡Fun facts: in my free time (not so much) I like to play my piano 🎹 
 
