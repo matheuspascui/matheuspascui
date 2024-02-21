@@ -4,7 +4,7 @@ My name is Matheus and I'm a Full Stack Software Developer starting my career.
 
 - 🌱 I’m currently learning and building things with JavaScript, but I also have some knowledge in C#, Python, SQL, HTML and CSS.
 
-- 💻 My goal in Tech is to become a JavaScript Full Stack Developer.
+- 💻 My goal in Tech is to become a JavaScript and Python Full Stack Developer.
 
 - 🔭 I'm very curious about how things work and how to build things on my own.
 
